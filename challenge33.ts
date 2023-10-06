@@ -39,4 +39,4 @@ function chineseZodiac(year: number): void {
   }
 }
 
-chineseZodiac(1939);
+chineseZodiac(1945);
