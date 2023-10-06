@@ -55,4 +55,4 @@ function chineseZodiac(year) {
   }
 }
 
-chineseZodiac(1940);
+chineseZodiac(1950);
